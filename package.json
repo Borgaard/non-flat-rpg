@@ -1,0 +1,24 @@
+{
+  "name": "non-flat-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nonflat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Borgaard/non-flat-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borgaard/non-flat-rpg/issues"
+  },
+  "homepage": "https://github.com/Borgaard/non-flat-rpg",
+  "dependencies": {
+    "ansi": "^0.3.0",
+    "keypress": "^0.2.1",
+    "readline": "0.0.7"
+  }
+}
