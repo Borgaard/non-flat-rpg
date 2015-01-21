@@ -4,7 +4,10 @@ Definitely not flat.
 
 Play a 2D sandbox adventure game in your terminal. Ensure you have node installed to play.
 
-Clone this repo, and `node nonflat.js` to begin.
+* Clone this repo
+* change directory with `cd non-flat-rpg`
+* install package dependencies with `npm install --save` [may have to use sudo]
+* `node nonflat.js` to begin.
 
 The majority of the world is grass, however rocks and trees are immovable, and you don't want to fall into a pond now, do ya?
 
