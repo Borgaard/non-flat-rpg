@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/Borgaard/non-flat-rpg",
   "dependencies": {
-    "ansi": "^0.3.0",
     "keypress": "^0.2.1",
-    "readline": "0.0.7"
+    "simple-ansi": "0.0.1"
   }
 }
