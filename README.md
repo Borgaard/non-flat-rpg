@@ -1,10 +1,13 @@
 # non-flat-rpg
 Definitely not flat.
 
+![notflat](http://i.imgur.com/2F195Wm.png?1)
 
-Play a 2D sandbox adventure game in your terminal. Ensure you have node installed to play.
+Play a 2D sandbox adventure game in your terminal. 
 
-* Clone this repo
+Ensure you have node installed to play. 
+
+* Clone this repo with `git clone https://github.com/Borgaard/non-flat-rpg.git`
 * change directory with `cd non-flat-rpg`
 * install package dependencies with `npm install --save` [may have to use sudo]
 * `node nonflat.js` to begin.
